@@ -1,5 +1,5 @@
 mock
-psutil
+psutil==5.4.3
 argh
 tabulate
 pyyaml

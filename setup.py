@@ -6,7 +6,7 @@ with open('README.md', 'rb') as r_file:
 
 # TODO remove pip install dependency on mock
 required = [
-    "psutil",
+    "psutil==5.4.3",
     "argh",
     "tabulate",
     "mock",
